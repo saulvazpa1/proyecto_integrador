@@ -1,0 +1,2 @@
+nombre: ALDO SAUL PARRA VAZQUEZ
+carrera: TIDSM
